@@ -1,1 +1,2 @@
 git remote add upstream git://github.com/genehack/smart-tab.git
+git remote add sroccaserra git://github.com/sroccaserra/smart-tab.git
